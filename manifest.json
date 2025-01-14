@@ -1,0 +1,8 @@
+{
+  "short_name": "房地產金融平台",
+  "name": "房地產投資與借貸平台",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
